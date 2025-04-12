@@ -30,8 +30,14 @@ Install dependencies:
 
 ``` pip install opencv-python numpy matplotlib ```
 
-
-### Challenges:
+## Challenges:
 - Choosing statistical operator - Mean or Gaussian
 - Tuning parameters - depending on image, block and C, might need to adjust until tumor is outlined
 - Inverting depending if white tumor on black background
+
+## Resources
+Links that helped me understand:
+- https://encord.com/blog/image-thresholding-image-processing/
+- https://youtu.be/9-8Js62wzQs?si=4ghw_7QmAnJ-yu15
+- https://youtu.be/DcWrbsPJEd8?si=azYxqe3YTT2jsOAT
+- https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html
